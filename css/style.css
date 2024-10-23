@@ -13,6 +13,22 @@
 @media (min-width: 1000px) {
 
     /* Header & Hero */
+    header {
+        font-family: 'Bungee Spice';
+        text-align: center;
+    }
+    header h1 {
+        font-size: 5rem;
+        
+    }
+    header img {
+        border: 1rem solid #D9A602;
+        border-radius: 2rem;
+        padding-bottom: 5rem;
+        padding-left: 10rem;
+        padding-right: 10rem;
+        background-color: #D97802;
+    }
 
     /* Projects */
 
@@ -25,10 +41,10 @@
 /*
 Color scheme:
 
-00DBAB
-D9A602
-0293D9
-D97802
-2D6884
-245C50
+#00DBAB
+#D9A602
+#0293D9
+#D97802
+#2D6884
+#245C50
 */
