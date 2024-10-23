@@ -13,15 +13,13 @@
 @media (min-width: 1000px) {
 
     /* Header & Hero */
-    header {
+    header, h1, h2, footer {
         font-family: 'Bungee Spice';
         text-align: center;
+        font-size: 4rem;
     }
-    header h1 {
-        font-size: 5rem;
-        
-    }
-    header img {
+
+    header img { /* Hero image */
         border: 1rem solid #D9A602;
         border-radius: 2rem;
         padding-bottom: 5rem;
@@ -31,6 +29,9 @@
     }
 
     /* Projects */
+    #projects {
+
+    }
 
     /* Reviews */
 
