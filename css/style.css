@@ -12,7 +12,7 @@
 /* Media state for Desktop site */
 @media (min-width: 1000px) {
 
-    /* Header & Hero */
+    /* Header & Hero & Headings & Footer */
     header, h1, h2, footer {
         font-family: 'Bungee Spice';
         text-align: center;
@@ -34,9 +34,9 @@
     }
 
     /* Reviews */
+    #reviews {
 
-    /* Footer */
-
+    }
 }
 
 /*
